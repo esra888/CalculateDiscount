@@ -15,6 +15,21 @@ as a discount).
 6. The percentage based discounts do not apply on phones.
 7. A user can get only one of the percentage based discounts on a bill.
 
+## Requirements 🔧
+Java version 8 or higher.
+
+## Installation 🔌
+1. Press the Fork button (top right the page) to save copy of this project on your account.
+
+2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
+
+```git
+git clone https://github.com/esra888/CalculateDiscount.git
+```
+3. Imported it in Intellij IDEA or any other Java IDE.
+
+4. Run the application :D
+
 ## Running the Test
 
 In this code were used three classes, You can reach UML Diagram via link: [https://github.com/esra888/CalculateDiscount/blob/main/umlDiagram.jpg] .
